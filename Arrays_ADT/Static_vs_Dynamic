@@ -1,0 +1,23 @@
+
+
+Static vs Dynamic Arrays:
+
+void main()
+{
+
+	int A[5];   // array is created in stack, size of the memory is decided during compilation time
+
+Note: In c++, sixe of an array can be decided in run-time and the array will be created inside the stack.
+
+	inr *p;   // pointer variable, memory will be allocated in stack for this variable
+	
+	p = new int[5]; //c++ syntax, for dynamic memory allocation, i.e memory is allocated in heap.
+	
+	p = (int*) malloc(5* sizeof(int)); // C syntax, dynamic allocation
+	
+Note:
+Memory allocated in heap should always be released, otherwise it causes "memory Leak" problems.
+
+   delete [] p;  // in C++
+   free(p);      // in C
+ 

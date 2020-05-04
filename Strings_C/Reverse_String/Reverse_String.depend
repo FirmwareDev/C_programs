@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587661551 source:c:\users\apurva\documents\github\c_programs\strings_c\reverse_string\main.c
+	<stdio.h>
+	<stdlib.h>
+

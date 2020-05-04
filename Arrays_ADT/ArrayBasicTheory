@@ -1,0 +1,47 @@
+Arrays:
+
+Scalar -> int x = 10;
+Vector -> int A[5];
+
+Declaration of Arrays:
+
+1) int A[5];       ->i   0   1   2   3   4
+                    |   |   |   |   |   |   <- Contains all the garbage value.
+                    |___|___|___|___|___|
+
+->The adresses are always contiguous. 					
+					
+2) int A[5] = {2,4,6,8,10}
+            
+Array will be created at runtime with the given values initialised.
+
+                ->i   0   1   2   3   4 
+				
+                    | 2 | 4 | 6 |  8| 10|
+                    |___|___|___|___|___|		
+
+
+3) int A[5] = {0}
+
+-> All the elements are set to '0'.
+
+4) int A[] = {2,4,6,8,10,12}
+
+-> Array of size [6] will be created and initialed to all the values mentioned above.
+
+
+#To access the element in the array:
+
+printf("%d",A[0]);   // element at index 0 will be printed.
+
+
+printf("%d", *(A+2));  // using pointer Arithmetic, access element at index 2
+
+#To traverse through an array:
+
+for(i=0;i<5;i++)   // 5 is the size of Array
+{
+	printf("%d",A[i]);
+}
+
+					
