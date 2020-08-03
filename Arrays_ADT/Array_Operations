@@ -1,0 +1,38 @@
+
+
+Array ADT (Abstract Data type)
+
+
+Data and Operations:
+
+Representation of Data: (We use struct for this)
+	1.Array space
+	2.Size
+	3.Length (no. of elements)
+	
+Operations:
+	1. Display()- traversing through an array 1:1
+	
+	2. Add(x) / Append(x)- Adding/ appending an element at the end of the array.
+	
+	3. Insert( index, x)- For the given index, shift all the elements right, and place x at index.	
+	 psuedo code: 								
+		for(i=length; i>index; i--)					
+		{											Time Complexity:
+			A[i] = A[i-1];							min: O(1)
+		}											max: O(n)
+		
+		A[index] = x;
+		length ++;
+	
+	
+	4. Delete(index)- Deleting an element at a given index.
+	
+	5. Search(x)
+	6. Get(index)
+	7. Set(index, x)
+	8. Max()/ Min()
+	9. Reverse()
+	10.Shif()/ Rotate()
+	
+	

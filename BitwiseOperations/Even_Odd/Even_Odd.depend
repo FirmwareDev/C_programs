@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590162501 source:c:\users\apurva\documents\github\c_programs\bitwiseoperations\even_odd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

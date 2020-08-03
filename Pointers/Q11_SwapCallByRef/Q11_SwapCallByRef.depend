@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590512853 source:c:\users\apurva\documents\github\c_programs\pointers\q11_swapcallbyref\main.c
+	<stdio.h>
+	<stdlib.h>
+

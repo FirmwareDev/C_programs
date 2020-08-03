@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590461115 source:c:\users\apurva\documents\github\c_programs\pointers\q10_strlength\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

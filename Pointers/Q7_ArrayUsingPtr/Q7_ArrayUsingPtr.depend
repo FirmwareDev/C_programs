@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590451154 source:c:\users\apurva\documents\github\c_programs\pointers\q7_arrayusingptr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
