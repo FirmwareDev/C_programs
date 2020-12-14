@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607294351 source:c:\users\apurva\documents\github\c_pp_programs\queuereview\main.c
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+

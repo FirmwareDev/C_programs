@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607133125 source:c:\users\apurva\documents\github\c_programs\udemyinterviewbootcamp\fizzbuzz\002.reversestring\main.c
+	<stdio.h>
+	<stdlib.h>
+

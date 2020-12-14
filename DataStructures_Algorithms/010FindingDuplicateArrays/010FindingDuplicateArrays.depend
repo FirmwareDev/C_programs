@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600554282 source:c:\users\apurva\documents\github\c_programs\intv_practise\010findingduplicatearrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

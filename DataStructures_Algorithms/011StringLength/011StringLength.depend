@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600623094 source:c:\users\apurva\documents\github\c_programs\intv_practise\011stringlength\main.c
+	<stdio.h>
+	<stdlib.h>
+

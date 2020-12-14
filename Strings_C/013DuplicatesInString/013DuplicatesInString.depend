@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600731730 source:c:\users\apurva\documents\github\c_programs\strings_c\013duplicatesinstring\main.c
+	<stdio.h>
+	<stdlib.h>
+

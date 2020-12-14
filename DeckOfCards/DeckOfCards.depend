@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1607271326 source:c:\users\apurva\documents\github\c_programs\deckofcards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Queue.h"
+	"Stack.h"
+
+1607270469 c:\users\apurva\documents\github\c_programs\deckofcards\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1607271343 c:\users\apurva\documents\github\c_programs\deckofcards\stack.h
+	<stdio.h>
+	<stdlib.h>
+

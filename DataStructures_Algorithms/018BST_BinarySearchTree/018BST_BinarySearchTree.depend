@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601203836 source:c:\users\apurva\documents\github\c_programs\intv_practise\018bst_binarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+

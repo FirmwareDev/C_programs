@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601472044 source:c:\users\apurva\documents\github\c_programs\intv_practise\datastructures\main.c
+	<stdio.h>
+	<stdlib.h>
+

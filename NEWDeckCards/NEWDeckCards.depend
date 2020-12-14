@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607285108 source:c:\users\apurva\documents\github\c_pp_programs\newdeckcards\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackLL.h"
+
+1607278452 c:\users\apurva\documents\github\c_pp_programs\newdeckcards\stackll.h
+	<stdio.h>
+	<stdlib.h>
+
